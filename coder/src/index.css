@@ -1,0 +1,90 @@
+body {
+background-color: bisque;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.styled-table thead tr {
+  background-color: #980500;
+  color: #ffffff;
+  text-align: left;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: x-large;
+}
+.styled-table {
+ margin-left: auto;
+ margin-right: auto;
+
+
+}
+.styled-table th,
+.styled-table td {
+  padding: 12px 15px;
+}
+
+.rowClass{
+  background-color: #dda4a4;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: large;
+}
+.tableData{
+  border-bottom: 2px solid #da370e;
+}
+.addTransactionClass{
+text-align: center;
+width: 1000px;
+height: 90px;
+background-color: #980500;
+padding: 15px;
+margin-left: auto;
+margin-right: auto;
+
+}
+.addingFields{
+
+ font-size: xx-large;
+}
+.adding{
+ 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: large;
+text-align: center;
+}
+.searchInput{
+  height: 50px;
+
+}
+.search{
+  height: 30px;
+  width: 250px;
+  border-radius: 20px;
+  margin-left: 1450px;
+  margin-top: 10px;
+}
+.addInput{
+  height: 30px;
+  width: 242px;
+  border-radius: 10px;
+}
+.bankHeader{
+  height: 100px;
+  width: 1820px;
+  background-color:#dda4a4 ;
+  text-align: center;
+  font-size: 50px;
+}
+.searchButton{
+  background-color: #980500;
+  height: 35px;
+  color: white;
+  font-weight: bold;
+  
+}
+.addbtn{
+  height: 30px;
+  width: 200px;
+ margin-top: 10px;
+}
