@@ -42,7 +42,7 @@ setTransaction(tempTransactions)
 return (
   <div className="transactions-container">
     <header className="bankHeader">
-      <p>FLATIRON BANK</p>
+      <p>BANK OF FLATIRON</p>
     </header>
     {(
       <>
