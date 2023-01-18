@@ -1,7 +1,8 @@
-import React,{useState} from "react";
+import React ,{useState} from "react";
 
 function AddTransactionForm(newData) {
-const[formData, setFormData] = useState({
+const[formData, setFormData] = useState([])
+useState({
   date:"",
   description:"",
   category:"",
